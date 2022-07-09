@@ -1,2 +1,2 @@
 # oauth-demo
-Oauth协议实践demo 
+Oauth2.0协议实践demo 
