@@ -1,0 +1,20 @@
+{
+  "name": "oauth-demo",
+  "version": "1.0.0",
+  "description": "Oauth2.0协议实践demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OnlyProbie/oauth-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OnlyProbie/oauth-demo/issues"
+  },
+  "homepage": "https://github.com/OnlyProbie/oauth-demo#readme"
+}
